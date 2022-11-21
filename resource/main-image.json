@@ -1,0 +1,32 @@
+{
+  "image": [
+    {
+      "title": "Apple Watch Series 7",
+      "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "background": "#F0F5F3",
+      "image": "/assets/banner/banner.png",
+      "buttonText":"View More"
+    },
+    {
+      "title": "Apple Watch Series 8",
+      "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "background": "#F0F5F3",
+      "image": "/assets/banner/banner1.png",
+      "buttonText":"View More"
+    },
+    {
+      "title": "Apple Watch Series 9",
+      "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "background": "#F0F5F3",
+      "image": "/assets/banner/banner.png",
+      "buttonText":"View More"
+    },
+    {
+      "title": "Apple Watch Series 10",
+      "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "background": "#F0F5F3",
+      "image": "/assets/banner/banner1.png",
+      "buttonText":"View More"
+    }
+  ]
+}

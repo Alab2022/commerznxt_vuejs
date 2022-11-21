@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+a {
+  color: color(primary);
+  position: relative;
+  text-decoration: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
+}
+a:hover {
+color: inherit !important;
+}
+
+#app {
+  overflow-x: hidden;
+}
+
+#viewport {
+  overflow-x: hidden;
+}
+
+
+body{
+    width: 100%;
+    font-family: 'Poppins', sans-serif !important; 
+}
+.align-center{
+    align-items: center;
+}
+
+.btn-primary{
+    background: #F05A28 !important;
+    color: #fff;
+}
+.btn-secondary{
+    background: #1C67A8 !important;
+    color: #fff;
+}
+.primary-text{
+    color: #F05A28 !important;
+}
+.secondary-text{
+    color: #1C67A8 !important;
+}
+button {
+    font-size: 14px !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.bg-gray{
+    background-color: #F9F9F9;
+}
+
+.site-wrapper{
+    padding: 15px 80px;
+    padding-bottom: 40px;
+}
+
+.product_nav {
+    color: #FFF;
+    font-size: 14px;
+    margin: 5px;
+    padding: 4px 7px;
+    background: #fff;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    button {
+        font-size: 28px !important;
+        display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    margin: 5px;
+    }
+    button span {
+        background: white;
+        padding: 0px 14px;
+        border-radius: 10px;
+        border: 1px solid #ddd;
+    }
+}
+.carousel-control-next, .carousel-control-prev {
+    z-index: 9;
+}
+h4.inner-heading {
+    border-left: 2px solid #F05A28;
+    padding-left: 13px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.inner-header a {
+    font-size: 14px;
+}
+
+h4.card-heading {
+    font-size: 20px;
+    color: #575757;
+}
+.ratings i.bi {
+    color: #DBDBDB;
+}
+.ic-active {
+    color: #1C67A8 !important;
+}
+span.cm-light {
+    font-size: 12px;
+    margin-left: 20px;
+    color: #9F9F9F;
+}
